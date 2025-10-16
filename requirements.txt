@@ -1,0 +1,1 @@
+First I put the comand " py -m pip install keyboard " in the terminal of VS CODE to upload the KEYBOARD.
